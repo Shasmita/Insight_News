@@ -1,0 +1,4 @@
+Download Data from the link below:
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+True.csv
+False.csv
